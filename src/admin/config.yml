@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo:theNollie/the-patch
+  repo: theNollie/the-patch
   branch: main
   base_url: https://the-patch-decap-oauth.jimimonteithr.workers.dev
   auth_endpoint: auth
